@@ -119,6 +119,26 @@ me.say_hi()
 
 <table>
 <tr>
+<td width="100%" colspan="2" valign="top">
+
+### 🎓 AI Education Copilot
+A full-stack **adaptive learning platform** guiding learners from onboarding through AI tutoring, adaptive quizzes/flashcards, PDF & YouTube-to-notes summarization, and day-by-day roadmap planning — powered by the **Google Gemini API**. Personalization runs on a transparent, rule-based adaptive engine (EMA mastery scoring) rather than an overstated ML claim. Also ships a multi-language coding practice IDE (Monaco Editor) with sandboxed JS execution and Judge0 CE support for Python, Java, C++, C, C#, Go & SQL.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/satwikakalivarapu005)
+[![Demo](https://img.shields.io/badge/Live%20Demo-A78BFA?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔎 Cybercrime Detection
